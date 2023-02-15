@@ -9,6 +9,9 @@ function checkSign(n){
   }
 };
 console.log(checkSign(-2));
+
 console.log(checkSign(4));
+
 console.log(checkSign(0));
+
 module.exports = checkSign;

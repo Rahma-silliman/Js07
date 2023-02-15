@@ -8,5 +8,7 @@ function checkEvenOdd(a,b){
  }
 };
 console.log(checkEvenOdd(1));
+
 console.log(checkEvenOdd(2));
+
 module.exports = checkEvenOdd;

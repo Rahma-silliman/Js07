@@ -5,5 +5,6 @@ function countOneToHunds(){
   };
 };
 countOneToHunds();
+
 module.exports = countOneToHunds;
   

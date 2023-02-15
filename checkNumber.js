@@ -10,6 +10,9 @@ function checkNumber(n){
   
 };
 console.log(checkNumber(4));
+
 console.log(checkNumber(5));
+
 console.log(checkNumber(6));
+
 module.exports = checkNumber; 
