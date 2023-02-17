@@ -3,5 +3,5 @@ function celsiusToFahrenheit(C){
   let F = (C*1.8) + 32;
   return F
 };
-console.log(celsiusToFahrenheit(50));
+console.log(celsiusToFahrenheit(30));
 module.exports = celsiusToFahrenheit;
