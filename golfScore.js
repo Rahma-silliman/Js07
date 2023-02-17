@@ -1,6 +1,6 @@
 const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];  function golfScore(par, strokes) {  
   
-  if(par === 1 || strokes === 1){
+  if(strokes === 1){
     return names[0];
   }
   else if(par === strokes ){
