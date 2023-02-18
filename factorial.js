@@ -4,7 +4,7 @@ function factorial(n){
   for(let i = 1; i <= n; i++){
    calculFactoriel *= i;
   };
-  return calculFactoriel;
+  return calculFactorial;
 };
 console.log(factoriel(6));
 module.exports = factorial;
